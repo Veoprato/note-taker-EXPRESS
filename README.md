@@ -6,7 +6,7 @@ The write icon shows empty fields for the user to enter a new note title and tex
 All saved notes will display on the left-column with the option to delete them.
 
 ## Deployed URL
-[Note Taker EXPRESS]() 
+[Note Taker EXPRESS](https://damp-oasis-37618.herokuapp.com/) 
 
 ## Github Repo
 [Veoprato](https://github.com/Veoprato/note-taker-EXPRESS)
